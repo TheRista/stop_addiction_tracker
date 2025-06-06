@@ -18,4 +18,23 @@
    ```bash
    pip install matplotlib plyer
 # stop_addiction_tracker
+
+🚀 Run aplikacije (dev način)
+Potrebno: Python 3.11+ i instalirane zavisnosti
+
+bash
+Copy
+Edit
+pip install matplotlib plyer
+python "Stop Addiction Tracker.py"
+🏗️ Build .exe (Windows)
+Potrebno: pyinstaller i .ico fajl
+
+bash
+Copy
+Edit
+pip install pyinstaller
+pyinstaller --onefile --windowed --icon=stop_addiction.ico "Stop Addiction Tracker.py"
+Output .exe će se nalaziti u dist/ direktorijumu.
+
 Application tracking your addiction
