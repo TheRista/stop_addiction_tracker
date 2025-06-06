@@ -1,0 +1,36 @@
+{
+  "en": {
+    "title": "Stop Addiction Tracker",
+    "save_entry": "Save Entry",
+    "show_history": "Show History",
+    "show_graph": "Show Progress",
+    "day_label": "Day: {date}",
+    "stress_label": "Stress (1 = calm, 5 = high)",
+    "comment_label": "Comment / Feeling",
+    "success_title": "Success",
+    "entry_saved": "Today's entry has been saved!",
+    "history_title": "Entry History",
+    "no_data": "No data to display.",
+    "graph_title": "Chart",
+    "no_graph_data": "Not enough data to show chart.",
+    "progress_title": "Smoking-Free Progress",
+    "y_axis_label": "Count / Value"
+  },
+  "sr": {
+    "title": "Stop Addiction Tracker",
+    "save_entry": "Sačuvaj unos",
+    "show_history": "Prikaži istoriju",
+    "show_graph": "Prikaži grafikon",
+    "day_label": "Dan: {date}",
+    "stress_label": "Stres (1 = miran, 5 = visok)",
+    "comment_label": "Komentar / Osećaj",
+    "success_title": "Uspeh",
+    "entry_saved": "Današnji unos je sačuvan!",
+    "history_title": "Istorija unosa",
+    "no_data": "Nema podataka za prikaz.",
+    "graph_title": "Grafikon",
+    "no_graph_data": "Nema dovoljno podataka za prikaz grafikona.",
+    "progress_title": "Napredak bez pušenja",
+    "y_axis_label": "Broj / Vrednost"
+  }
+}
